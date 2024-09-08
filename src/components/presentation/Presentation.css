@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.description {
+    text-align: center;
+    justify-content: center;
+    padding: 5rem;
+}
+
+.subtitle {
+    margin: 10px 0;
+}
+
+.left {
+    width: 95%;
+    background-image: linear-gradient(to right, #DBCEF2, #DAEBF3, #f1f1f1);
+}
+
+.right {
+    width: 95%;
+    background-image: linear-gradient(to left, #DBCEF2, #DAEBF3, #f1f1f1);
+}

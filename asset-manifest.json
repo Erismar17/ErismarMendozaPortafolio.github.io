@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ErismarMendozaPortafolio.github.io/static/css/main.a35562b5.css",
+    "main.js": "/ErismarMendozaPortafolio.github.io/static/js/main.690d11e8.js",
+    "static/js/453.7d1ffe6d.chunk.js": "/ErismarMendozaPortafolio.github.io/static/js/453.7d1ffe6d.chunk.js",
+    "index.html": "/ErismarMendozaPortafolio.github.io/index.html",
+    "main.a35562b5.css.map": "/ErismarMendozaPortafolio.github.io/static/css/main.a35562b5.css.map",
+    "main.690d11e8.js.map": "/ErismarMendozaPortafolio.github.io/static/js/main.690d11e8.js.map",
+    "453.7d1ffe6d.chunk.js.map": "/ErismarMendozaPortafolio.github.io/static/js/453.7d1ffe6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a35562b5.css",
+    "static/js/main.690d11e8.js"
+  ]
+}

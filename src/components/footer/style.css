@@ -1,0 +1,24 @@
+.footer {
+    height: 10rem;
+    display: flex;
+}
+
+.left {
+    width: 100%;
+    background-image: linear-gradient(to left, #f1f1f1, #DAEBF3, #DBCEF2 );
+}
+
+.social-networks {
+    display: flex;
+    align-items: center;
+}
+
+.right {
+    width: 100%;
+    background-image: linear-gradient(to left, #DBCEF2, #DAEBF3, #f1f1f1);
+}
+
+.s-n {
+    height: 3rem;
+    margin: 0 2rem;
+}

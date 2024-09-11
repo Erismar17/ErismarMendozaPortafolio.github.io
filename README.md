@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Deploy to github pages
+1. after push the changes to main branch, use the `npm run build`, then use `npm run deploy`. (this create a push to "gh-pages" automatically)
+2. verify in [github.com](https://github.com/) in the repo the updates and wait to see the changes in the github page.
+
+
 ## Available Scripts
 
 In the project directory, you can run:

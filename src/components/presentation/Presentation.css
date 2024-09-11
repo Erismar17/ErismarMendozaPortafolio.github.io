@@ -1,12 +1,6 @@
 .container {
     display: flex;
-    justify-content: space-between;
-}
-
-.description {
-    text-align: center;
-    justify-content: center;
-    padding: 5rem;
+    height: 90vh;
 }
 
 .subtitle {
@@ -14,11 +8,18 @@
 }
 
 .left {
-    width: 95%;
+    width: 100%;
     background-image: linear-gradient(to right, #DBCEF2, #DAEBF3, #f1f1f1);
 }
 
+.description {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .right {
-    width: 95%;
+    width: 100%;
     background-image: linear-gradient(to left, #DBCEF2, #DAEBF3, #f1f1f1);
 }

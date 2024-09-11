@@ -4,7 +4,6 @@ const Presentation = () => {
     return (
         <div className='container'>
             <div className='left'></div>
-
             <div className='description'>
                 <h1>Erismar Mendoza</h1>
                 <h2 className='subtitle'>Frontend Developer</h2>
@@ -15,10 +14,8 @@ const Presentation = () => {
                     Mi compromiso con la excelencia en el desarrollo front-end es evidente en cada proyecto en el que participo
                     siempre buscando mejorar y superar los desafíos con entusiasmo y creatividad.</p>
             </div>
-
             <div className='right'></div>
         </div>
     )
 }
-
 export default Presentation;

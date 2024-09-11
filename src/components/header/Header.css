@@ -5,6 +5,7 @@ html {
 .header {
     display: flex;
     justify-content: space-between;
+    /* position: fixed; */
     width: 100%;
 }
 
@@ -20,7 +21,7 @@ html {
 }
 
 .header-options {
-    margin: 25px 50px;
+    margin: 23px 50px;
     display: flex;
 }
 
@@ -42,4 +43,9 @@ html {
 
 .option:active {
     background-image: linear-gradient(to right, #C5B3EB, #A7D8E9);
+}
+
+.cv-contact {
+    display: flex;
+    justify-content: space-around;
 }

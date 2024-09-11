@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/ErismarMendozaPortafolio.github.io/static/css/main.a35562b5.css",
-    "main.js": "/ErismarMendozaPortafolio.github.io/static/js/main.690d11e8.js",
+    "main.css": "/ErismarMendozaPortafolio.github.io/static/css/main.359baa0f.css",
+    "main.js": "/ErismarMendozaPortafolio.github.io/static/js/main.564431d3.js",
     "static/js/453.7d1ffe6d.chunk.js": "/ErismarMendozaPortafolio.github.io/static/js/453.7d1ffe6d.chunk.js",
+    "static/media/cv-erismar-mendoza.pdf": "/ErismarMendozaPortafolio.github.io/static/media/cv-erismar-mendoza.a5a7380b6b01f0a8f4a0.pdf",
+    "static/media/react.svg": "/ErismarMendozaPortafolio.github.io/static/media/react.8e63d418a6421cc2662e234ac8af7313.svg",
+    "static/media/nodedotjs.svg": "/ErismarMendozaPortafolio.github.io/static/media/nodedotjs.6d0ce605479079334bce77dc7c3be9ab.svg",
     "index.html": "/ErismarMendozaPortafolio.github.io/index.html",
-    "main.a35562b5.css.map": "/ErismarMendozaPortafolio.github.io/static/css/main.a35562b5.css.map",
-    "main.690d11e8.js.map": "/ErismarMendozaPortafolio.github.io/static/js/main.690d11e8.js.map",
+    "static/media/sass.svg": "/ErismarMendozaPortafolio.github.io/static/media/sass.f39b61fa63da56122e4767f8ce57939b.svg",
+    "static/media/whatsapp.svg": "/ErismarMendozaPortafolio.github.io/static/media/whatsapp.681a24bac6ce67ef84bbff6285b8d751.svg",
+    "static/media/figma.svg": "/ErismarMendozaPortafolio.github.io/static/media/figma.d3e63c6d231c7af226642031e01f0276.svg",
+    "static/media/javascript.svg": "/ErismarMendozaPortafolio.github.io/static/media/javascript.5ee3c82fade3a5a9c98dc18702a4f717.svg",
+    "static/media/github.svg": "/ErismarMendozaPortafolio.github.io/static/media/github.3b21c250a99986431958daaa9246a45a.svg",
+    "static/media/linkedin.svg": "/ErismarMendozaPortafolio.github.io/static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
+    "static/media/css3.svg": "/ErismarMendozaPortafolio.github.io/static/media/css3.1323e04024709c8a25e60cd9db22db48.svg",
+    "static/media/html5.svg": "/ErismarMendozaPortafolio.github.io/static/media/html5.8e6289ed1eb0b9f348a463db8fa3e38c.svg",
+    "static/media/nextdotjs.svg": "/ErismarMendozaPortafolio.github.io/static/media/nextdotjs.7ff86746ec25a6637a0f1b80a9d20332.svg",
+    "main.359baa0f.css.map": "/ErismarMendozaPortafolio.github.io/static/css/main.359baa0f.css.map",
+    "main.564431d3.js.map": "/ErismarMendozaPortafolio.github.io/static/js/main.564431d3.js.map",
     "453.7d1ffe6d.chunk.js.map": "/ErismarMendozaPortafolio.github.io/static/js/453.7d1ffe6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a35562b5.css",
-    "static/js/main.690d11e8.js"
+    "static/css/main.359baa0f.css",
+    "static/js/main.564431d3.js"
   ]
 }

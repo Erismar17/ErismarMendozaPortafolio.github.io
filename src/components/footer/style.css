@@ -22,3 +22,13 @@
     height: 3rem;
     margin: 0 2rem;
 }
+
+@media (max-width: 320px) {
+    .s-n {
+        height: 1rem;
+        margin: 0 1rem;
+    }
+    .footer {
+        height: 5rem;
+    }
+}

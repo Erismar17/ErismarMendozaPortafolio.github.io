@@ -5,7 +5,7 @@ const Presentation = () => {
         <div className='container'>
             <div className='left'></div>
             <div className='description'>
-                <h1>Erismar Mendoza</h1>
+                <h1 className='title'>Erismar Mendoza</h1>
                 <h2 className='subtitle'>Frontend Developer</h2>
                 <p>Me apasiona el diseño y la funcionalidad de las interfaces, lo que me lleva a explorar constantemente
                     nuevas herramientas y enfoques, manteniendo una alta calidad en el diseño visual y la usabilidad.

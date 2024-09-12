@@ -11,7 +11,7 @@ html {
 
 .home {
     cursor: pointer;
-    margin-left: 25px;
+    margin: 0 25px;
     display: flex;
     align-items: center;
     text-decoration: none;
@@ -21,7 +21,7 @@ html {
 }
 
 .header-options {
-    margin: 23px 50px;
+    margin: 23px 0px;
     display: flex;
 }
 
@@ -48,4 +48,40 @@ html {
 .cv-contact {
     display: flex;
     justify-content: space-around;
+}
+
+
+/* =============================================================== */
+
+
+.menu {
+    display: none;
+    border: none;
+    margin: 0 5px;
+}
+
+.menu-span {
+    font-size: xx-large;
+}
+
+@media (max-width: 940px) {
+    .menu {
+        display: block;
+    }
+    .option {
+        display: none;
+    }
+}
+
+@media (max-width: 350px) {
+    .home {
+        cursor: pointer;
+        margin: 0 25px;
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: black;
+        font-size: large;
+        font-weight: 600;
+    }
 }

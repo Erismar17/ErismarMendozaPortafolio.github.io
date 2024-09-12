@@ -1,4 +1,7 @@
-.technologies, .projects, .cv, .contact-me {
+.technologies,
+.projects,
+.cv,
+.contact-me {
     text-align: center;
     margin: 5rem;
 }
@@ -57,4 +60,42 @@
 
 .description {
     padding: 4rem;
+}
+
+@media (max-width: 500px) {
+    .title-tech {
+        font-size: large;
+    }
+}
+
+@media (max-width: 460px) {
+    .title-tech {
+        font-size: smaller;
+    }
+
+    .subtitle-tech {
+        font-size: small;
+    }
+
+    .technologies {
+        margin: 1rem;
+    }
+}
+
+@media (max-width: 425px) {
+    .icon {
+        margin: 3rem;
+        height: 6rem;
+    }
+    
+    .cv {
+        margin: 1rem;
+    }
+    
+}
+
+@media (max-width: 425px) {
+    .cv {
+        margin: 0;
+    }
 }

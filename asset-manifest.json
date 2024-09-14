@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portafolio.github.io/static/css/main.6dab503a.css",
-    "main.js": "/Portafolio.github.io/static/js/main.59b5efc3.js",
+    "main.css": "/Portafolio.github.io/static/css/main.1772be03.css",
+    "main.js": "/Portafolio.github.io/static/js/main.eb3f875a.js",
     "static/js/453.7d1ffe6d.chunk.js": "/Portafolio.github.io/static/js/453.7d1ffe6d.chunk.js",
     "static/media/cv-erismar-mendoza.pdf": "/Portafolio.github.io/static/media/cv-erismar-mendoza.a5a7380b6b01f0a8f4a0.pdf",
     "static/media/react.svg": "/Portafolio.github.io/static/media/react.8e63d418a6421cc2662e234ac8af7313.svg",
@@ -16,12 +16,12 @@
     "static/media/css3.svg": "/Portafolio.github.io/static/media/css3.1323e04024709c8a25e60cd9db22db48.svg",
     "static/media/html5.svg": "/Portafolio.github.io/static/media/html5.8e6289ed1eb0b9f348a463db8fa3e38c.svg",
     "static/media/nextdotjs.svg": "/Portafolio.github.io/static/media/nextdotjs.7ff86746ec25a6637a0f1b80a9d20332.svg",
-    "main.6dab503a.css.map": "/Portafolio.github.io/static/css/main.6dab503a.css.map",
-    "main.59b5efc3.js.map": "/Portafolio.github.io/static/js/main.59b5efc3.js.map",
+    "main.1772be03.css.map": "/Portafolio.github.io/static/css/main.1772be03.css.map",
+    "main.eb3f875a.js.map": "/Portafolio.github.io/static/js/main.eb3f875a.js.map",
     "453.7d1ffe6d.chunk.js.map": "/Portafolio.github.io/static/js/453.7d1ffe6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dab503a.css",
-    "static/js/main.59b5efc3.js"
+    "static/css/main.1772be03.css",
+    "static/js/main.eb3f875a.js"
   ]
 }

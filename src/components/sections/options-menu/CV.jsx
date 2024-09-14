@@ -12,7 +12,7 @@ const CV = () => {
                     equipos multidisciplinarios.</p>
             </div>
             <a href={cv} target='_blank' rel='noreferrer'>
-                <button className='option'>Open CV in a new tab</button>
+                <button className='option-cv'>Open CV in a new tab</button>
             </a>
         </div>
     )

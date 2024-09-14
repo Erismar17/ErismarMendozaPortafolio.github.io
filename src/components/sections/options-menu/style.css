@@ -62,6 +62,26 @@
     padding: 4rem;
 }
 
+.option-cv {
+    display: inline-block;
+    border-radius: 35px;
+    border: 2px solid #9e9ec9;
+    padding: 10px 40px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+    background-color: transparent;
+    transition: background-color 0.3s ease;
+}
+
+.option-cv:hover {
+    background-image: linear-gradient(to right, #DBCEF2, #DAEBF3);
+}
+
+.option-cv:active {
+    background-image: linear-gradient(to right, #C5B3EB, #A7D8E9);
+}
+
 @media (max-width: 500px) {
     .title-tech {
         font-size: large;

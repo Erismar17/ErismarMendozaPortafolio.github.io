@@ -17,10 +17,10 @@ const Header = () => {
             <div className='header'>
                 <a href='home' id='home' className='home'>Erismar Mendoza</a>
                 <div className='header-options'>
-                    <a href='technologies' className='option'>Technologies</a>
-                    <a href='projects' className='option'>Projects</a>
-                    <a href='cv' className='option'>CV</a>
-                    <a href='contact' className='option'>Contact</a>
+                    <a href='#technologies' className='option'>Technologies</a>
+                    <a href='3projects' className='option'>Projects</a>
+                    <a href='#cv' className='option'>CV</a>
+                    <a href='#contact' className='option'>Contact</a>
                     <button className={'menu'} onClick={openMenu}>
                         <span className='material-symbols-rounded menu-span'>menu</span>
                     </button>

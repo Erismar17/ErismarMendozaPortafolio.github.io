@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1772be03.css",
-    "main.js": "/Portfolio/static/js/main.f3874747.js",
+    "main.js": "/Portfolio/static/js/main.cd6ef5dc.js",
     "static/js/453.7d1ffe6d.chunk.js": "/Portfolio/static/js/453.7d1ffe6d.chunk.js",
     "static/media/cv-erismar-mendoza.pdf": "/Portfolio/static/media/cv-erismar-mendoza.a5a7380b6b01f0a8f4a0.pdf",
     "static/media/react.svg": "/Portfolio/static/media/react.8e63d418a6421cc2662e234ac8af7313.svg",
@@ -17,11 +17,11 @@
     "static/media/html5.svg": "/Portfolio/static/media/html5.8e6289ed1eb0b9f348a463db8fa3e38c.svg",
     "static/media/nextdotjs.svg": "/Portfolio/static/media/nextdotjs.7ff86746ec25a6637a0f1b80a9d20332.svg",
     "main.1772be03.css.map": "/Portfolio/static/css/main.1772be03.css.map",
-    "main.f3874747.js.map": "/Portfolio/static/js/main.f3874747.js.map",
+    "main.cd6ef5dc.js.map": "/Portfolio/static/js/main.cd6ef5dc.js.map",
     "453.7d1ffe6d.chunk.js.map": "/Portfolio/static/js/453.7d1ffe6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1772be03.css",
-    "static/js/main.f3874747.js"
+    "static/js/main.cd6ef5dc.js"
   ]
 }

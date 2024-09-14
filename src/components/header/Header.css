@@ -64,7 +64,7 @@ html {
     font-size: xx-large;
 }
 
-@media (max-width: 940px) {
+@media (max-width: 960px) {
     .menu {
         display: block;
     }

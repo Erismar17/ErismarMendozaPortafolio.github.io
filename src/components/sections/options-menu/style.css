@@ -2,8 +2,8 @@
 .projects,
 .cv,
 .contact-me {
-    text-align: center;
     margin: 5rem;
+    text-align: center;
 }
 
 .icon {
@@ -12,43 +12,43 @@
 }
 
 .tooltip {
-    position: relative;
-    display: inline-block;
     cursor: pointer;
     font-size: 16px;
+    position: relative;
+    display: inline-block;
 }
 
 .tooltip-text {
-    visibility: hidden;
+    left: 50%;
+    z-index: 1;
+    opacity: 0;
+    bottom: 80%;
+    padding: 5px;
     width: 110px;
-    background-color: #555;
     color: #fff;
+    visibility: hidden;
     text-align: center;
     border-radius: 5px;
-    padding: 5px;
     position: absolute;
-    z-index: 1;
-    bottom: 80%;
-    left: 50%;
     margin-left: -60px;
-    opacity: 0;
+    background-color: #555;
     transition: opacity 0.3s;
 }
 
 .tooltip-text::after {
-    content: '';
-    position: absolute;
     top: 100%;
     left: 50%;
+    content: '';
     margin-left: -5px;
     border-width: 5px;
+    position: absolute;
     border-style: solid;
     border-color: #555 transparent transparent transparent;
 }
 
 .tooltip:hover .tooltip-text {
-    visibility: visible;
     opacity: 1;
+    visibility: visible;
 }
 
 .cv-description {
@@ -63,13 +63,14 @@
 }
 
 .option-cv {
-    display: inline-block;
-    border-radius: 35px;
-    border: 2px solid #9e9ec9;
-    padding: 10px 40px;
-    margin: 0 10px;
-    text-decoration: none;
     color: black;
+    margin: 0 10px;
+    padding: 10px 40px;
+    border-radius: 35px;
+    text-decoration: none;
+    text-decoration: none;
+    display: inline-block;
+    border: 2px solid #9e9ec9;
     background-color: transparent;
     transition: background-color 0.3s ease;
 }
@@ -80,6 +81,24 @@
 
 .option-cv:active {
     background-image: linear-gradient(to right, #C5B3EB, #A7D8E9);
+}
+
+.portfolio-projects {
+    display: flex;
+    margin: 3rem 0;
+    color: black;
+    font-size: large;
+    align-items: center;
+    text-decoration: none;
+    justify-content: center;
+}
+
+.portfolio-projects:hover {
+    text-decoration: underline;
+}
+
+.portfolio-projects span {
+    margin: 0 10px;
 }
 
 @media (max-width: 500px) {
